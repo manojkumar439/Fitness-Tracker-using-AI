@@ -1,0 +1,50 @@
+[
+  {
+    "id": "95d6e6b1-ba97-49ee-8a1e-5964abf15b55",
+    "name": "lalit",
+    "email": "vishnult6!@gmail.com",
+    "password": "$2a$10$WtMuJi8r4v4FZgOAGtwDS.9cQsrTydWK0h5nNlTDiZUyWFm7q3Eye",
+    "workouts": [],
+    "createdAt": "2025-04-25T18:26:27.271Z",
+    "updatedAt": "2025-04-25T18:26:27.271Z"
+  },
+  {
+    "id": "117816cb-ca63-42fb-8ef3-b88520c396b2",
+    "name": "manoj",
+    "email": "manoj@gmail.com",
+    "password": "$2a$10$JKTsvLBEXJO491/BPyox/uHeEaIDDMAp2kqDRuFnfXOkV7xO0Hutu",
+    "workouts": [
+      {
+        "id": "1745823881763",
+        "exerciseName": "Powerlifting (heavy lifting, like deadlifts or squats)",
+        "sets": "4",
+        "reps": "10",
+        "date": "2000-03-12",
+        "intensity": "Medium",
+        "duration": "60",
+        "calories": 7
+      },
+      {
+        "id": "1745888704512",
+        "exerciseName": "Bench Press",
+        "sets": "4",
+        "reps": "12",
+        "date": "2025-04-24",
+        "intensity": "High",
+        "duration": "12",
+        "calories": 5
+      }
+    ],
+    "createdAt": "2025-04-26T04:48:22.688Z",
+    "updatedAt": "2025-04-26T04:48:22.688Z"
+  },
+  {
+    "id": "609b2c1c-f854-48d4-9fe1-9b0c299d69db",
+    "name": "123",
+    "email": "manoj@msn",
+    "password": "$2a$10$ELyY.CoqUf1C3fcsI8L4.etvK8lQJAWfTt0vo11u7rJM7PxzytMLG",
+    "workouts": [],
+    "createdAt": "2025-04-29T05:10:01.731Z",
+    "updatedAt": "2025-04-29T05:10:01.731Z"
+  }
+]
