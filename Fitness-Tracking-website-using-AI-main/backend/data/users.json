@@ -46,5 +46,14 @@
     "workouts": [],
     "createdAt": "2025-04-29T05:10:01.731Z",
     "updatedAt": "2025-04-29T05:10:01.731Z"
+  },
+  {
+    "id": "dab01e0b-ea4a-440b-9e5a-d0e4273ee1e1",
+    "name": "lalit kumar",
+    "email": "lalit12@gmail.com",
+    "password": "$2a$10$yNElgDSQFxJW5h6lrgmROeMxu1nNNiQIwjHEeRJUoFNTW67qH4sBC",
+    "workouts": [],
+    "createdAt": "2025-05-01T16:34:49.839Z",
+    "updatedAt": "2025-05-01T16:34:49.839Z"
   }
 ]
